@@ -16,7 +16,7 @@ public class HelloJava {
 		/**System.out.println("깃허브 올리고 수정함");*/
 		/*
 		 이것은
-		 여러줄 
+		 여러줄 ddd
 		  주석		 
 		 */
 	
